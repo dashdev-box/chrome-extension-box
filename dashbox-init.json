@@ -1,0 +1,15 @@
+{
+  "docs_url": "http://github.com/dashdev-box/chrome-extension-box/",
+  "post_clone_remove": [
+    ".gitignore",
+    "test/.gitkeep",
+    "img/.gitkeep",
+    "lib/.gitkeep"
+  ],
+  "post_clone_execute": {
+    "e1": ""
+  },
+  "scripts_description": {
+    "s1": ""
+  }
+}
